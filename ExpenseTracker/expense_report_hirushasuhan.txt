@@ -1,0 +1,16 @@
+EXPENSE TRACKER REPORT
+User: Hirushasuhan
+Generated on: 2025-08-20 23:29:30
+==================================================
+
+FINANCIAL SUMMARY:
+Total Income: $50.00
+Total Expenses: $10.00
+Current Balance: $40.00
+
+TRANSACTION HISTORY:
+1. Description: food, Amount: $10.00, Date: 2025-08-20 23:23:48, Category: genaral, Type: EXPENSE
+2. Description: nimal, Amount: $50.00, Date: 2025-08-20 23:25:25, Source: other, Type: INCOME
+
+==================================================
+End of Report
